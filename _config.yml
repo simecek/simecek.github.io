@@ -1,8 +1,8 @@
-title: "Petr Simecek"
+title: "Petr Šimeček"
 description: "Bioinformatics Analyst, The Jackson Laboratory"
-about: "R RStudio Shiny Tidyverse Python Kaggle Running Kids"
+about: "R RStudio Shiny Tidyverse Python Kaggle Github Running Kids"
 location: "Bar Harbor, Maine, USA"
-email: simecek@gmail.com
+email: 
 baseurl: ""
 
 url: "http://simecek.github.io" # replace by your site's url
@@ -11,13 +11,7 @@ github_username:  simecek
 author: "Petr Simecek"
 
 # google analytics tracking code, please change the value
-g_analytics: ""
-
-# add your disqus to enable comments
-disqus_shortname:
-
-# add your disqus to enable comments
-disqus_shortname:
+g_analytics: "UA-90647482-1"
 
 # language settings
 isolang: en
@@ -25,8 +19,8 @@ close_btn: "Close"
 home_btn: "Home"
 projects_btn: "Projects"
 posts_btn: "Posts"
-imprint_btn: "Imprint"
-name_badge: "an article by"
+imprint_btn: ""
+name_badge: ""
 rss_badge: "Subscribe feed!"
 
 # build settings
