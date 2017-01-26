@@ -19,8 +19,8 @@ g_analytics: "UA-90647482-1"
 isolang: en
 close_btn: "Close"
 home_btn: "Home"
-projects_btn: "Blog"
-posts_btn: "Twitter"
+projects_btn: "Twitter"
+posts_btn: "Blog"
 middle_btn: "Too short to post, too long to tweet"
 
 imprint_btn: ""
