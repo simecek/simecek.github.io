@@ -8,8 +8,7 @@ baseurl: ""
 url: "http://simecek.github.io" # replace by your site's url
 github_username:  simecek
 twitter_username: simecek42
-linkedin_username: petr.simecek
-linkedin: petr.simecek
+linkedin_username: simecekpetr
 author: "Petr Simecek"
 
 # google analytics tracking code, please change the value
