@@ -3,7 +3,7 @@ description: "Bioinformatics Analyst, The Jackson Laboratory"
 about: "R RStudio Shiny Tidyverse Python Kaggle Running Kids"
 location: "Bar Harbor, Maine, USA"
 email: simecek@gmail.com
-baseurl: "/material-theme"
+baseurl: "/"
 
 url: "http://simecek.github.io" # replace by your site's url
 twitter_username: simecek42
