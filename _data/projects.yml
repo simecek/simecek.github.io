@@ -2,8 +2,8 @@
   link: "https://twitter.com/python_tip"
   description: "@python_tip"
 - name: project 2
-  link: "Gists"
-  description: "https://gist.github.com/simecek"
+  link: "https://gist.github.com/simecek"
+  description: "Gists"
 - name: project 3
   link: "/blog"
   description: "Too long to tweet, too short to post"
